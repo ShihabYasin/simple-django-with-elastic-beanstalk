@@ -1,8 +1,4 @@
-# Deploying Django to AWS Elastic Beanstalk
-
-Check out the [tutorial](https://testdriven.io/blog/django-elastic-beanstalk/).
-
-## Want to use this project?
+# How to Deploy Django App to AWS Elastic Beanstalk
 
 ### Local setup
 
